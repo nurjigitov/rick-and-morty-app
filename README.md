@@ -254,8 +254,8 @@ MIT License - см. файл [LICENSE](LICENSE)
 
 ## 📞 Контакты
 
-- GitHub: (https://github.com/nurjigitov/rick-and-morty-app/)
-- Email: тnurjigitov.azamat@gmail.com
+- GitHub: [@your-username](https://github.com/your-username)
+- Email: your.email@example.com
 
 ---
 
